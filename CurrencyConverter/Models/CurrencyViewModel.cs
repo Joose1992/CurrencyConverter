@@ -5,7 +5,7 @@ namespace CurrencyConverter.Models
 	{
 		public string FromCurrency { get; set; }
 		public string ToCurrency { get; set; }
-		public int Amount { get; set; }
+		public double Amount { get; set; }
 		public List<string> CurrencyList { get; set; }
 		public int ConvertedResult { get; set; }
 

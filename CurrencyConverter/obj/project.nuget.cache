@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZejXO2/Q+rr0GIIdviNVxon6z9NIp9TZQShrJQMkkVVVOXKMPm1PLPnTHFI7bt4JJLxU93j64RzIttFKc6AF6g==",
+  "dgSpecHash": "gbK+TT5LT/RqImQX5mTZXGe+/vfvrtHRoCtMq5m8+lcx+mgo/S/SySaLrM0su5/S+SahTpdpT/I4ptux36+VpA==",
   "success": true,
-  "projectFilePath": "/Users/josemontanez/Projects/CurrencyConverter/CurrencyConverter/CurrencyConverter.csproj",
+  "projectFilePath": "/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter/CurrencyConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
