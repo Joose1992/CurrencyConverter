@@ -1,0 +1,31 @@
+﻿@model CurrencyConverter.Models.CurrencyViewModel
+
+@{
+    ViewBag.Title = "Currency Converter";
+}
+
+<h2>Currency Converter</h2>
+<form method="post" action="~/Currency/Convert">
+    <div class="form-control">
+            <div class="input-group mb-3">
+                    <select class="btn btn-outline-secondary dropdown-toggle" name="FromCurrency">
+                        @foreach (string currency in Model.CurrencyList)
+                        {
+                            <option value="@currency">From Currency: @currency</option>
+                        }
+                    </select>
+                    <input type="number" class="form-control" name="Amount" placeholder="Amount to convert">
+            </div>
+            <div class="input-group mb-3">
+                    <select name="ToCurrency">
+                        @foreach (string currency in Model.CurrencyList)
+                        {
+                            <option value="@currency">To Currency @currency</option>
+                        }
+                    </select>
+                    <input class="form-control" value="@Model.ConvertedResult" placeholder="Result">
+                    <button class="btn btn-primary" type="submit">Convert amount</button>
+            </div>
+    </div>
+</form>
+
