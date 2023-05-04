@@ -1,0 +1,12 @@
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/bin/Debug/net7.0/CurrencyConverter.Services.deps.json
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/bin/Debug/net7.0/CurrencyConverter.Services.dll
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/bin/Debug/net7.0/CurrencyConverter.Services.pdb
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/obj/Debug/net7.0/CurrencyConverter.Services.csproj.AssemblyReference.cache
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/obj/Debug/net7.0/CurrencyConverter.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/obj/Debug/net7.0/CurrencyConverter.Services.AssemblyInfoInputs.cache
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/obj/Debug/net7.0/CurrencyConverter.Services.AssemblyInfo.cs
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/obj/Debug/net7.0/CurrencyConverter.Services.csproj.CoreCompileInputs.cache
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/obj/Debug/net7.0/CurrencyConverter.Services.dll
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/obj/Debug/net7.0/refint/CurrencyConverter.Services.dll
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/obj/Debug/net7.0/CurrencyConverter.Services.pdb
+/Users/josemontanez/Developer/Repos/CurrencyConverter/CurrencyConverter.Services/obj/Debug/net7.0/ref/CurrencyConverter.Services.dll

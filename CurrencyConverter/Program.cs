@@ -1,7 +1,11 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using CurrencyConverter.Services.Interfaces;
+using CurrencyConverter.Services.Logic;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<ICurrencyLogic, CurrencyLogic>();
 
 var app = builder.Build();
 

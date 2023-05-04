@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{7C8B6D4D-E01D-4B62-98A3-2CC258FAC46F}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CurrencyConverter/Views/Currency/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CurrencyConverter/Controllers/CurrencyController.cs">
     <Files>
       <File FileName="CurrencyConverter/Views/Currency/Index.cshtml" Line="9" Column="29" />
-      <File FileName="CurrencyConverter/Models/CurrencyViewModel.cs" />
+      <File FileName="CurrencyConverter/Models/CurrencyViewModel.cs" Line="10" Column="43" />
+      <File FileName="CurrencyConverter/Controllers/CurrencyController.cs" Line="19" Column="28" />
+      <File FileName="CurrencyConverter.Services/Model/CurrencyModel.cs" Line="9" Column="64" />
+      <File FileName="CurrencyConverter.Services/Logic/CurrencyLogic.cs" Line="14" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,11 +15,13 @@
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Currency" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Currency" expanded="True" />
                 <Node name="Home" expanded="True" />
               </Node>
+            </Node>
+            <Node name="CurrencyConverter.Services" expanded="True">
+              <Node name="Logic" expanded="True" />
+              <Node name="Model" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +31,9 @@
   <MonoDevelop.Ide.ItemProperties.CurrencyConverter PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.CurrencyConverter.Services FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>

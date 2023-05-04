@@ -7,14 +7,15 @@ namespace CurrencyConverter.Models
 		public string ToCurrency { get; set; }
 		public double Amount { get; set; }
 		public List<string> CurrencyList { get; set; }
-		public int ConvertedResult { get; set; }
+		public double ConvertedResult { get; set; }
 
 		public CurrencyViewModel()
 		{
 			CurrencyList = new List<string>
 			{
 				"USD",
-				"EUR"
+				"EUR",
+				"MXPESOS"
 			};
 		}
 	}
